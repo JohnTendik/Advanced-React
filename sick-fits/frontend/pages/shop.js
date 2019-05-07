@@ -1,9 +1,10 @@
 import React from 'react';
+import Items from '../components/Items/Items';
 
 const Shop = (props) => {
   return (
     <div>
-      <p>Shop</p>
+      <Items />
     </div>
   )
 }
