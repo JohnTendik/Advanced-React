@@ -1,3 +1,9 @@
-import Home from './index';
+import CreateItem from '../components/CreateItem/CreateItem';
 
-export default Home;
+const Sell = props => (
+  <div>
+    <CreateItem />
+  </div>
+)
+
+export default Sell;

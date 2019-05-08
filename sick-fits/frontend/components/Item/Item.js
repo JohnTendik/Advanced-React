@@ -6,7 +6,6 @@ import formatMoney from '../../lib/formatMoney';
 import Title from '../styles/Title';
 import ItemStyles from '../styles/ItemStyles';
 import PriceTag from '../styles/PriceTag';
-import { SSL_OP_DONT_INSERT_EMPTY_FRAGMENTS } from 'constants';
 
 class componentName extends Component {
   render() {
